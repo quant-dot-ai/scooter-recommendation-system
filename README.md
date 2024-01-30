@@ -11,7 +11,7 @@ Our custom built [Feature dataset](https://github.com/quant-dot-ai/scooter-recom
 We used python, more specifically we used selenium for scraping, nltk, pandas, numpy and sklearn packages for processing. Google's and openAI's APIs for connecting to services like Youtube and ChatGPT. 
 
 ### Analysis
-A detailed presentation with our motivation, methodology and findings can be found [here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric Scooter Recommender System.pptx). (It lacks the charisma of our presenters but has most of the information)
+A detailed presentation with our motivation, methodology and findings can be found [here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric%20Scooter%20Recommender%20System.pptx). (It lacks the charisma of our presenters but has most of the information)
 
 ### Insights and Recommendations
 <img width="723" alt="image" src="https://github.com/quant-dot-ai/scooter-recommendation-system/assets/146693417/c5b16712-a49f-4ca2-968f-2614e5b3386d">
