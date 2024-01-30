@@ -19,15 +19,15 @@ A detailed presentation with our motivation, methodology and findings can be fou
 | Wheelspeed | Primer| User-friendly               | Weak brakes                       | Great if there have been many  |
 |            |       | Reliable speed              | Password needed                   | complaints about missing bikes |
 |            |       | Cruise control              |                                   | in your neighbourhood          |
-|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+|____________|_______|_____________________________|___________________________________|________________________________|                              
 | Gotrax     | GXL V2| Lightweight                 | Battery Issues                    | Good if have to carry it long  |
 |            |       | Efficient brakes            | Maintenance                       | distances (from car to class)  |
 |            |       | Great speed                 | Headlight                         |                                |
-|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+|____________|_______|_____________________________|___________________________________|________________________________|
 | VOLPAM     | SPT7  | Dual shocks                 | Height adjustment &               | Great for speed, choose this   |
 |            |       | Simple assembly             | Adjustment screw required         | if you are frequently late for |
 |            |       | Stable                      |                                   | class                          |
-|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+|____________|_______|_____________________________|___________________________________|________________________________|
 
 
 ### Business Usecase and further development
