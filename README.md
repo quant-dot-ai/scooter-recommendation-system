@@ -14,7 +14,21 @@ We used python, more specifically we used selenium for scraping, nltk, pandas, n
 A detailed presentation with our motivation, methodology and findings can be found [here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric%20Scooter%20Recommender%20System.pptx). (It lacks the charisma of our presenters but has most of the information)
 
 ### Insights and Recommendations
-<img width="723" alt="image" src="https://github.com/quant-dot-ai/scooter-recommendation-system/assets/146693417/c5b16712-a49f-4ca2-968f-2614e5b3386d">
+| Brand      | Model | Pros                        | Cons                              | Recommendation                 |
+|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+| Wheelspeed | Primer| User-friendly               | Weak brakes                       | Great if there have been many  |
+|            |       | Reliable speed              | Password needed                   | complaints about missing bikes |
+|            |       | Cruise control              |                                   | in your neighbourhood          |
+|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+| Gotrax     | GXL V2| Lightweight                 | Battery Issues                    | Good if have to carry it long  |
+|            |       | Efficient brakes            | Maintenance                       | distances (from car to class)  |
+|            |       | Great speed                 | Headlight                         |                                |
+|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+| VOLPAM     | SPT7  | Dual shocks                 | Height adjustment &               | Great for speed, choose this   |
+|            |       | Simple assembly             | Adjustment screw required         | if you are frequently late for |
+|            |       | Stable                      |                                   | class                          |
+|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
+
 
 ### Business Usecase and further development
 This model can easily be extended to other types of recommendation systems that would benefit from sentiment analysis. Examples include but are not limited to:
