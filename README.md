@@ -5,13 +5,13 @@
 Electric scooters are a great way to get around. They are prevent you from being late to class, save the environment and quite fun. But one quick search online will flood you with options. This makes it  really difficult to choose the right one for your specific needs. Battery capacity, motor rpm and weight listed on shopping websites do not mean a lot to the average consumer (unless you are an electric scooter aficionado). We aim to simplify this choice by going through many (and I mean MANY) user and critic reviews, figure out the common features and the sentiment around scooters to recommend the perfect one for you!
 
 ### Data Used
-Our custom built ![Feature dataset](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric_Scooter_Features.csv) and ![Reviews Dataset](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric_Scooter_Reviews.csv)  were created by scraping thousands of reviews from Amazon and youtube video comments.
+Our custom built [Feature dataset](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric_Scooter_Features.csv) and [Reviews Dataset](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric_Scooter_Reviews.csv)  were created by scraping thousands of reviews from Amazon and youtube video comments.
 
 ### Tools and Tech
 We used python, more specifically we used selenium for scraping, nltk, pandas, numpy and sklearn packages for processing. Google's and openAI's APIs for connecting to services like Youtube and ChatGPT. 
 
 ### Analysis
-A detailed presentation with our motivation, methodology and findings can be found ![here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric Scooter Recommender System.pptx). (It lacks the charisma of our presenters but has most of the information)
+A detailed presentation with our motivation, methodology and findings can be found [here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric Scooter Recommender System.pptx). (It lacks the charisma of our presenters but has most of the information)
 
 ### Insights and Recommendations
 <img width="723" alt="image" src="https://github.com/quant-dot-ai/scooter-recommendation-system/assets/146693417/c5b16712-a49f-4ca2-968f-2614e5b3386d">
