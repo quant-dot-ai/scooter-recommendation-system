@@ -14,20 +14,18 @@ We used python, more specifically we used selenium for scraping, nltk, pandas, n
 A detailed presentation with our motivation, methodology and findings can be found [here](https://github.com/quant-dot-ai/scooter-recommendation-system/blob/main/Electric%20Scooter%20Recommender%20System.pptx). (It lacks the charisma of our presenters but has most of the information)
 
 ### Insights and Recommendations
-| Brand      | Model | Pros                        | Cons                              | Recommendation                 |
-|------------|-------|-----------------------------|-----------------------------------|--------------------------------|
-| Wheelspeed | Primer| User-friendly               | Weak brakes                       | Great if there have been many  |
-|            |       | Reliable speed              | Password needed                   | complaints about missing bikes |
-|            |       | Cruise control              |                                   | in your neighbourhood          |
-|____________|_______|_____________________________|___________________________________|________________________________|                              
-| Gotrax     | GXL V2| Lightweight                 | Battery Issues                    | Good if have to carry it long  |
-|            |       | Efficient brakes            | Maintenance                       | distances (from car to class)  |
-|            |       | Great speed                 | Headlight                         |                                |
-|____________|_______|_____________________________|___________________________________|________________________________|
-| VOLPAM     | SPT7  | Dual shocks                 | Height adjustment &               | Great for speed, choose this   |
-|            |       | Simple assembly             | Adjustment screw required         | if you are frequently late for |
-|            |       | Stable                      |                                   | class                          |
-|____________|_______|_____________________________|___________________________________|________________________________|
+| Brand      | Model  | Pros             | Cons                             | Recommendation                                             |
+|------------|--------|------------------|----------------------------------|------------------------------------------------------------|
+| Wheelspeed | Primer | User-friendly    | Weak brakes                      | Great if there have been many complaints about missing     |
+|            |        | Reliable speed   | Password needed                  | bikes in your neighbourhood                                |
+|            |        | Cruise control   |                                  |                                                            |
+| Gotrax     | GXL V2 | Lightweight      | Battery Issues                   | Good if you have to carry it long distances (from car to   |
+|            |        | Efficient brakes | Maintenance                      | class)                                                     |
+|            |        | Great speed      | Headlight                        |                                                            |
+| VOLPAM     | SPT7   | Dual shocks      | Height adjustment &              | Great for speed, choose this if you are frequently late    |
+|            |        | Simple assembly  | Adjustment screw required        | for class                                                  |
+|            |        | Stable           |                                  |                                                            |
+
 
 
 ### Business Usecase and further development
